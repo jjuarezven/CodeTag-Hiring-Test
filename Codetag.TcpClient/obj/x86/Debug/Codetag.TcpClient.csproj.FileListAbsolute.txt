@@ -1,0 +1,9 @@
+C:\Codetag\Codetag.TcpClient\bin\Debug\Codetag.TcpClient.exe
+C:\Codetag\Codetag.TcpClient\bin\Debug\Codetag.TcpClient.pdb
+C:\Codetag\Codetag.TcpClient\bin\Debug\Codetag.Model.dll
+C:\Codetag\Codetag.TcpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Codetag\Codetag.TcpClient\bin\Debug\Codetag.Model.pdb
+C:\Codetag\Codetag.TcpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Codetag\Codetag.TcpClient\obj\x86\Debug\Codetag.TcpClient.csprojResolveAssemblyReference.cache
+C:\Codetag\Codetag.TcpClient\obj\x86\Debug\Codetag.TcpClient.exe
+C:\Codetag\Codetag.TcpClient\obj\x86\Debug\Codetag.TcpClient.pdb

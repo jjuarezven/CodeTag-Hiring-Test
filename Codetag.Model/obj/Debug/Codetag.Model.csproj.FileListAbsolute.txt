@@ -1,0 +1,7 @@
+C:\Codetag\Codetag.Model\bin\Debug\Codetag.Model.dll
+C:\Codetag\Codetag.Model\bin\Debug\Codetag.Model.pdb
+C:\Codetag\Codetag.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Codetag\Codetag.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Codetag\Codetag.Model\obj\Debug\Codetag.Model.csprojResolveAssemblyReference.cache
+C:\Codetag\Codetag.Model\obj\Debug\Codetag.Model.dll
+C:\Codetag\Codetag.Model\obj\Debug\Codetag.Model.pdb

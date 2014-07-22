@@ -1,0 +1,12 @@
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Codetag.TcpToWeb.exe.config
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Codetag.TcpToWeb.exe
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Codetag.TcpToWeb.pdb
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Codetag.Model.dll
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Fleck.dll
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Codetag.Model.pdb
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Fleck.pdb
+C:\Codetag\Codetag.TcpToWeb\bin\Debug\Newtonsoft.Json.xml
+C:\Codetag\Codetag.TcpToWeb\obj\x86\Debug\Codetag.TcpToWeb.csprojResolveAssemblyReference.cache
+C:\Codetag\Codetag.TcpToWeb\obj\x86\Debug\Codetag.TcpToWeb.exe
+C:\Codetag\Codetag.TcpToWeb\obj\x86\Debug\Codetag.TcpToWeb.pdb
