@@ -2,3 +2,4 @@ bin
 /Codetag.Model/obj/Release
 Release
 /.nuget/*.exe
+/Codetag.Model/obj/Release/*.cache
