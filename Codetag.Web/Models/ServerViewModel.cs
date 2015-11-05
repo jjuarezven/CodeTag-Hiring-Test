@@ -16,7 +16,7 @@ namespace Codetag.Web.Models
 
 		[Required]
 		[Range(10, 100)]
-		[Display(Name = "Max Random Value for Y Axis")]
+		[Display(Name = "Maximum Random Value for Y Axis")]
 		public int MaxValue { get; set; }
 	}
 }
